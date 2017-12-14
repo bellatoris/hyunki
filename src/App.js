@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import Navigator from './components/navigator';
-import Header from './components/header';
+import Home from './components/home';
 import Body from './components/body';
 
 
@@ -14,7 +14,7 @@ class App extends Component {
     return (
       <div className="App">
         <Navigator />
-        <Header />
+        <Home />
         <Body />
       </div>
     );

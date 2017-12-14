@@ -10,11 +10,10 @@ class Navigator extends Component {
     return (
       <div className="App-navigator">
         <ul>
-          <li> <a href="#Education"> Education </a> </li>
-          <li> <a href="#Interests"> Interests </a> </li>
-          <li> <a href="#Work_Experience"> Work Experience </a> </li>
-          <li> <a href="#Pet_Projects"> Pet Projects </a> </li>
-          <li> <a href="#Awards"> Awards </a> </li>
+          <li><a href="#Profile">Profile</a></li>
+          <li><a href="#Research">Research</a></li>
+          <li><a href="#Preprints">Preprints</a></li>
+          <li><a href="#Contacts">Contacts</a></li>
         </ul>
       </div>
     );
