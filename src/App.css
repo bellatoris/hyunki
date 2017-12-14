@@ -104,18 +104,13 @@
   top: 50%;
 }
 
-.App-intro {
+.App-body {
   margin: 0 auto;
   padding: 0 50px;
   max-width: 1000px;
   font-size: large;
   text-align: left;
 }
-
-.App-header h1{
-    margin-top: 50px;
-}
-
 
 @media only screen and (max-width: 775px) {
   .App-intro {
